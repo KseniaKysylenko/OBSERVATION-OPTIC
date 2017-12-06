@@ -1,0 +1,84 @@
+@font-face {
+    font-family: 'Fira Sans';
+    src: local('Fira Sans ExtraLight'), local('FiraSans-ExtraLight'), url('firasansextralight.woff2')/*tpa=http://fonari.emarkert.ru/fonts/firasansextralight.woff2*/ format('woff2'), url('firasansextralight.woff')/*tpa=http://fonari.emarkert.ru/fonts/firasansextralight.woff*/ format('woff'), url('firasansextralight.ttf')/*tpa=http://fonari.emarkert.ru/fonts/firasansextralight.ttf*/ format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: local('Fira Sans ExtraLight Italic'), local('FiraSans-ExtraLightItalic'), url('firasansextralightitalic.woff2')/*tpa=http://fonari.emarkert.ru/fonts/firasansextralightitalic.woff2*/ format('woff2'), url('firasansextralightitalic.woff')/*tpa=http://fonari.emarkert.ru/fonts/firasansextralightitalic.woff*/ format('woff'), url('firasansextralightitalic.ttf')/*tpa=http://fonari.emarkert.ru/fonts/firasansextralightitalic.ttf*/ format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: local('Fira Sans Light'), local('FiraSans-Light'), url('firasanslight.woff2')/*tpa=http://fonari.emarkert.ru/fonts/firasanslight.woff2*/ format('woff2'), url('firasanslight.woff')/*tpa=http://fonari.emarkert.ru/fonts/firasanslight.woff*/ format('woff'), url('firasanslight.ttf')/*tpa=http://fonari.emarkert.ru/fonts/firasanslight.ttf*/ format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: local('Fira Sans Light Italic'), local('FiraSans-LightItalic'), url('firasanslightitalic.woff2')/*tpa=http://fonari.emarkert.ru/fonts/firasanslightitalic.woff2*/ format('woff2'), url('firasanslightitalic.woff')/*tpa=http://fonari.emarkert.ru/fonts/firasanslightitalic.woff*/ format('woff'), url('firasanslightitalic.ttf')/*tpa=http://fonari.emarkert.ru/fonts/firasanslightitalic.ttf*/ format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: local('Fira Sans Book'), local('FiraSans-Book'), url('firasansbook.woff2')/*tpa=http://fonari.emarkert.ru/fonts/firasansbook.woff2*/ format('woff2'), url('firasansbook.woff')/*tpa=http://fonari.emarkert.ru/fonts/firasansbook.woff*/ format('woff'), url('firasansbook.ttf')/*tpa=http://fonari.emarkert.ru/fonts/firasansbook.ttf*/ format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: local('Fira Sans Book Italic'), local('FiraSans-BookItalic'), url('firasansbookitalic.woff2')/*tpa=http://fonari.emarkert.ru/fonts/firasansbookitalic.woff2*/ format('woff2'), url('firasansbookitalic.woff')/*tpa=http://fonari.emarkert.ru/fonts/firasansbookitalic.woff*/ format('woff'), url('firasansbookitalic.ttf')/*tpa=http://fonari.emarkert.ru/fonts/firasansbookitalic.ttf*/ format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: local('Fira Sans'), local('FiraSans-Regular'), url('firasans.woff2')/*tpa=http://fonari.emarkert.ru/fonts/firasans.woff2*/ format('woff2'), url('firasans.woff')/*tpa=http://fonari.emarkert.ru/fonts/firasans.woff*/ format('woff'), url('firasans.ttf')/*tpa=http://fonari.emarkert.ru/fonts/firasans.ttf*/ format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: local('Fira Sans Italic'), local('FiraSans-Italic'), url('firasansitalic.woff2')/*tpa=http://fonari.emarkert.ru/fonts/firasansitalic.woff2*/ format('woff2'), url('firasansitalic.woff')/*tpa=http://fonari.emarkert.ru/fonts/firasansitalic.woff*/ format('woff'), url('firasansitalic.ttf')/*tpa=http://fonari.emarkert.ru/fonts/firasansitalic.ttf*/ format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: local('Fira Sans Medium'), local('FiraSans-Medium'), url('firasansmedium.woff2')/*tpa=http://fonari.emarkert.ru/fonts/firasansmedium.woff2*/ format('woff2'), url('firasansmedium.woff')/*tpa=http://fonari.emarkert.ru/fonts/firasansmedium.woff*/ format('woff'), url('firasansmedium.ttf')/*tpa=http://fonari.emarkert.ru/fonts/firasansmedium.ttf*/ format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: local('Fira Sans Medium Italic'), local('FiraSans-MediumItalic'), url('firasansmediumitalic.woff2')/*tpa=http://fonari.emarkert.ru/fonts/firasansmediumitalic.woff2*/ format('woff2'), url('firasansmediumitalic.woff')/*tpa=http://fonari.emarkert.ru/fonts/firasansmediumitalic.woff*/ format('woff'), url('firasansmediumitalic.ttf')/*tpa=http://fonari.emarkert.ru/fonts/firasansmediumitalic.ttf*/ format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: local('Fira Sans SemiBold'), local('FiraSans-SemiBold'), url('firasanssemibold.woff2')/*tpa=http://fonari.emarkert.ru/fonts/firasanssemibold.woff2*/ format('woff2'), url('firasanssemibold.woff')/*tpa=http://fonari.emarkert.ru/fonts/firasanssemibold.woff*/ format('woff'), url('firasanssemibold.ttf')/*tpa=http://fonari.emarkert.ru/fonts/firasanssemibold.ttf*/ format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: local('Fira Sans SemiBold Italic'), local('FiraSans-SemiBoldItalic'), url('firasanssemibolditalic.woff2')/*tpa=http://fonari.emarkert.ru/fonts/firasanssemibolditalic.woff2*/ format('woff2'), url('firasanssemibolditalic.woff')/*tpa=http://fonari.emarkert.ru/fonts/firasanssemibolditalic.woff*/ format('woff'), url('firasanssemibolditalic.ttf')/*tpa=http://fonari.emarkert.ru/fonts/firasanssemibolditalic.ttf*/ format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: local('Fira Sans Bold'), local('FiraSans-Bold'), url('firasansbold.woff2')/*tpa=http://fonari.emarkert.ru/fonts/firasansbold.woff2*/ format('woff2'), url('firasansbold.woff')/*tpa=http://fonari.emarkert.ru/fonts/firasansbold.woff*/ format('woff'), url('firasansbold.ttf')/*tpa=http://fonari.emarkert.ru/fonts/firasansbold.ttf*/ format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: local('Fira Sans Bold Italic'), local('FiraSans-BoldItalic'), url('firasansbolditalic.woff2')/*tpa=http://fonari.emarkert.ru/fonts/firasansbolditalic.woff2*/ format('woff2'), url('firasansbolditalic.woff')/*tpa=http://fonari.emarkert.ru/fonts/firasansbolditalic.woff*/ format('woff'), url('firasansbolditalic.ttf')/*tpa=http://fonari.emarkert.ru/fonts/firasansbolditalic.ttf*/ format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
